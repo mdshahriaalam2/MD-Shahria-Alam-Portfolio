@@ -9,7 +9,7 @@ A modern, responsive, and interactive portfolio website showcasing technical ski
 
 ## ✨ Live Demo
 
-**[View Live Portfolio]([Md Shahria Alam Portfolio](https://dainty-brioche-8e502e.netlify.app/))**
+**[View Live Portfolio](https://mdshahriaalam-portfolio.netlify.app/)**
 
 ## 🌟 Key Features
 
