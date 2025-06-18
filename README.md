@@ -331,9 +331,6 @@ This is a personal portfolio project, but suggestions and feedback are welcome:
 
 ### **Social Links**
 - **GitHub**: [mdshahriaalam2](https://github.com/mdshahriaalam2)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-- **Instagram**: [Your Instagram Handle]
 
 ## 📄 License
 
@@ -351,4 +348,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with ❤️ using HTML, CSS, and JavaScript**
 
-*Last updated: December 2024* 
+*Last updated: June 2025* 
